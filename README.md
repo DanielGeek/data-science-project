@@ -23,6 +23,6 @@
 
 ```bash
 conda create -p venv python=3.10 -y
-conda activate venv
+conda activate /Users/thepunisher/Documents/GitHub/data-science-project/venv
 pip install -r requirements.txt
 ```
